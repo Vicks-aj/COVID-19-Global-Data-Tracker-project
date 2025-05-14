@@ -1,6 +1,4 @@
-# COVID-19-Global-Data-Tracker-project
-
-# COVID-19 Global Data Tracker
+#COVID-19 Global Data Tracker
 
 ## Project Description
 Analysis of global COVID-19 trends including case trajectories, mortality rates, and vaccination progress across five key countries.
